@@ -1,0 +1,13 @@
+{
+  "name": "synpress-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "synpress run --configFile=synpress.config.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@synthetixio/synpress": "^2.4.1"
+  }
+}
